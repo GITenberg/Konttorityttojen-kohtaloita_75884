@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '46870'
     url: http://www.gutenberg.org/2009/agents/46870
     wikipedia: https://en.wikipedia.org/wiki/Hella_Wuolijoki
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wägner, Elin
@@ -27,6 +30,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Elin_W%C3%A4gner
     - https://fi.wikipedia.org/wiki/Elin_W%C3%A4gner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75884#Konttorityttojen-kohtaloita
 gutenberg_issued: '2025-04-16'
 gutenberg_type: Text
 identifiers:
